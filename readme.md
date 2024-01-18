@@ -3,11 +3,11 @@
 
 ## About
 
-Este plugin inserta un buscador de personajes de Rick and Morty usando el shorcode [rickmorty]
+Este plugin inserta un buscador de personajes de Rick and Morty usando el shorcode [rickandmorty]
 
 ## Usage
 
-Se pude agregar el shortcode [rickmorty] en cualquier pagina o entrada del sitio web.
+Se pude agregar el shortcode [rickandmorty] en cualquier pagina o entrada del sitio web.
 
 **Parametros Opcionales:**
 * Filtrat por Status: `status=live` 
